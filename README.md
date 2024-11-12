@@ -2,7 +2,7 @@
 
 :computer: **Analista Programador**
 :pencil: **Estudiando ando**
-:eyeglases: **Entusiasta**
+:eyeglasses: **Entusiasta**
 :cat: **catlover**
 
 ### Vías de contacto
